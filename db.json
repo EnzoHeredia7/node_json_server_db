@@ -1,0 +1,77 @@
+{
+  "profesores": [
+    {
+      "nombre": "Enzo Ariel",
+      "apellido": "Heredia",
+      "materias": [
+        {
+          "nombre": "Preceptoria"
+        },
+        {
+          "nombre": "Educacion Fisica"
+        }
+      ],
+      "id": "143f"
+    },
+    {
+      "id": "c586",
+      "nombre": "Ivana",
+      "apellido": "Vigliani",
+      "materias": [
+        {
+          "nombre": "Preceptoria"
+        },
+        {
+          "nombre": "Pei"
+        }
+      ]
+    },
+    {
+      "id": "f6aa",
+      "nombre": "Martin",
+      "apellido": "Soria",
+      "materias": [
+        {
+          "nombre": "Preceptoria"
+        },
+        {
+          "nombre": "Educacion Fisica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Alejo",
+      "apellido": "Gutierrez",
+      "promedio": "9",
+      "id": "0891"
+    },
+    {
+      "nombre": "Lucia",
+      "apellido": "Machado",
+      "promedio": "8",
+      "id": "e077"
+    },
+    {
+      "id": "6b8e",
+      "nombre": "Francisco",
+      "apellido": "Tomasso",
+      "promedio": "10"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "4B",
+      "duracion": 2,
+      "dificultad": "alta",
+      "id": "f359"
+    },
+    {
+      "nombre": "5B",
+      "duracion": 3,
+      "dificultad": "media",
+      "id": "2edd"
+    }
+  ]
+}
